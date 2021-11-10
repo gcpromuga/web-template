@@ -1,8 +1,9 @@
-.main-header {
+/* .main-header {
   color: blue;
   padding: 30px;
   border: 10px solid pink;
-}
+  float: left;
+} */
 
 .header-container {
   border: 5px solid red;
@@ -95,4 +96,10 @@ p::first-line {
   position: absolute;
   bottom: 100px;
   right: 500px;
+}
+
+nav {
+  float: right;
+  font-size: 15px;
+  margin-top: 20px;
 }
